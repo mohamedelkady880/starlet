@@ -1,0 +1,137 @@
+body
+{
+	padding: 70px;
+	height: 8000px;
+}
+
+.container
+{
+    background: linear-gradient(to right, #0089ff 0%,#0089ff 70%,#202020 70%,#202020 100%);
+    min-height: 500px;
+    padding: 80px;
+    border-radius: 40px;
+    
+}
+
+.container .starlet h1
+{
+    color: #fff;
+    font-weight: bold;
+    font-size:50px; 
+    padding: 30px 0;
+}
+
+.starlet img
+{
+    width:100%;
+    border-radius: 20px;
+    position: relative;
+}
+
+.starlet p
+{
+    font-size: 30px; 
+    color: #fff; 
+    margin: 0; 
+    position:relative; 
+    top: -99px; 
+    left: 75px; 
+    line-height: 1
+}
+
+.starlet p span
+{
+    font-size: 20px;
+}
+
+.container .Contact
+{
+    background-color:#fff; 
+    padding-top:85px;
+    right: 50px;
+    top: -32px;
+    
+}
+.container .Contact .register1
+{
+    position:relative;
+    left: -39px;
+    top: -35px;
+}
+.container .Contact .login
+{
+    position:relative;
+    left: 30px;
+    top: -35px;
+}
+
+.container .Contact .from-group
+{
+    padding: 5px;
+    margin: 10px;
+    
+}
+
+
+.connect-google {
+    background:#e0492e;
+    color:#fff;
+    
+    padding:10px;
+    border-radius:5px;
+    cursor:pointer;
+    width: 70%;
+    margin-left: auto;
+    margin-right:auto;
+}
+.fb-connect {
+    background:#3c5a96;
+    color:#fff;
+    margin:5px 0 20px;
+    padding:10px;
+    border-radius:5px;
+    cursor:pointer;
+    width: 70%;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.connect-google span, .fb-connect span {
+    margin-left: 10px;
+}
+
+.form-group label, input
+{
+   margin: 5px; 
+   width:100px;
+   text-align: left;
+   width: 220px; 
+   border-top-style: none;
+   border-left-style: none;
+   border-right-style: none;
+   border-bottom-color:#E6E6E6; 
+}
+
+label
+{
+    color:#E6E6E6; 
+}
+.container .Contact input[type="submit"]
+{
+    background:#0089ff;
+    color:#fff;
+    margin:26px;
+    width:107px;
+    padding:9px;
+    border-radius:5px;
+    text-align:center;
+}
+
+.container .fonts
+{
+    color:#fff;
+    text-align:right;
+    margin-right:17px;
+    margin-top:15px;
+    letter-spacing:3px;
+}

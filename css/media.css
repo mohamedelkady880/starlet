@@ -1,0 +1,182 @@
+
+@media (max-width: 767px)
+{
+   .container .starlet h1
+     {
+        font-size: 35px;
+        position: relative;
+        top: -69px;
+        left: -49px;     
+     }
+    .starlet img
+    {
+        width: 219px;
+        position: relative;
+        left: -54px;
+        top: -58px;
+    }
+     .starlet p
+    {
+        font-size: 8px;
+        left: -25px;
+        top: -87px;
+    }
+     .starlet p span
+    {
+        font-size: 6px;
+    }
+    .container .Contact
+    {
+        right: 26px;
+        top: -73px;
+        width: 195px;
+    }
+     .container .Contact .register1
+    {
+        left: -10px;
+        top: -60px;
+        font-size: 9px;
+    }
+    .container .Contact .login
+    {
+        left: 10px;
+        top: -60px;
+        font-size: 9px;
+    }
+     .connect-google
+    {
+        width: 67%;
+        font-size: 7px;
+        position: relative;
+        top: -48px;
+
+    }
+    .fb-connect
+    {
+        width: 67%;
+        font-size: 7px;
+        position: relative;
+        top: -51px;
+    }
+     .container .Contact .from-group
+    {
+        width: 75px;
+    }
+    .form-group label, input
+    {
+        position: relative;
+        top: -51px;
+        font-size: 11px;
+    }
+    .form-group input
+    {
+        width: 100%;
+    }
+    label 
+    {
+        color: #BDBDBD;
+    }
+     .container .Contact input[type="submit"]
+    {
+        width: 94px;
+        position: relative;
+        top: 0;
+    }
+    .container .fonts
+    {
+        position: relative;
+        left: 80px;
+        top: -36px;
+    }
+}
+    
+@media (min-width: 768px) and (max-width: 991px)
+{
+  .container .Contact
+    {
+        right: -3px;
+        top: -59px;
+    }
+}
+
+
+@media (min-width:992px) and (max-width: 1199px)
+{
+  .container
+    {
+        width: 892px;
+        padding: 30px;
+    }
+    .container .starlet h1
+    {
+        padding: 35px 9px;
+    }
+    .starlet img
+    {
+        width: 95%;
+    }
+    .starlet p
+    {
+        font-size: 26px;
+        top: -84px;
+        left: 59px;
+    }
+    .container .Contact
+    {
+       padding-top: 5px;
+       right: 50px;
+       top: -28px;
+        font-size: 12px;
+    }
+    .container .Contact .register1
+    {
+        left: -31px;
+        top: 20px;
+    }
+    .container .Contact .login
+    {
+        left:28px;
+        top: 20px;
+    }
+    .container .Contact .from-group
+    {
+        width:100px;
+       
+    }
+    .connect-google
+    {
+        font-size: 12px;
+        position: relative;
+        bottom: -45px;
+        width: 66%;
+    }
+    .fb-connect
+    {
+        font-size: 12px;
+        position: relative;
+        bottom: -42px;
+        width: 66%;
+    }
+    .connect-google span, .fb-connect span
+    {
+        
+    }
+    .form-group label, input
+    {
+      position: relative;
+      top: 37px;
+       
+    }
+    .container .Contact input[type="submit"]
+    {
+        width: 79px;
+        position: relative;
+        top: 20px;
+    }
+}
+
+
+@media(min-width: 1200px)
+{
+
+}
